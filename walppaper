@@ -6,7 +6,7 @@
     //Supported main ads value: admob, google_ad_manager, fan, startapp, unity, applovin_max, applovin_discovery or ironsource
     "ad_type": "admob",
     "backup_ads": "none",
-    "admob_publisher_id": "pub-3940256099942544",
+    "admob_publisher_id": "pub-4251477143655911",
     "admob_banner_unit_id": "ca-app-pub-4251477143655911/2599818347",
     "admob_interstitial_unit_id": "ca-app-pub-4251477143655911/5034409999",
     "admob_native_unit_id": "ca-app-pub-4251477143655911/1218260394",
