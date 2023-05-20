@@ -4,7 +4,7 @@
     "MoreApp": "https://play.google.com/store/apps/developer?id=Cover+Shoot+Studio",
     "ad_status": "1",
     //Supported main ads value: admob, google_ad_manager, fan, startapp, unity, applovin_max, applovin_discovery or ironsource
-    "ad_type": "admob",
+    "ad_type": "applovin_max",
     "backup_ads": "none",
     "admob_publisher_id": "pub-4251477143655911",
     "admob_banner_unit_id": "ca-app-pub-4251477143655911/8990445809",
